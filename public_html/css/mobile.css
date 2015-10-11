@@ -1,0 +1,61 @@
+/*
+Author  : Jeremy Moore
+Date    : 2015-09-12
+Email   : jeremy.I.moore20@gmail.com
+LinkdIn : https://ca.linkedin.com/pub/jeremy-moore/98/950/407
+*/
+
+p {
+    text-indent: 10px;
+}
+
+body {
+    background-color: #4682B4;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#title{
+  text-indent: 10px;
+}
+
+#nameValuePairList{
+  width: 250px;
+}
+
+#nameValueUserInput{
+width:250px;
+}
+
+fieldset{
+  border:0;
+}
+
+input[type=button]{
+  width: 250px;
+  border-radius: 5px;
+}
+
+#title{
+  text-indent: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#MainForm{
+  border-radius: 2px;
+  border-color: red;
+  background-color: white;
+  min-width: 280px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 5%;
+}
+
+#xml_return{
+  border-radius: 2px;
+  margin-top: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #F5F5F5;
+}
